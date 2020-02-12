@@ -1,0 +1,41 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<Players>
+<Player ID="1">
+<Username>test</Username>
+<Password>test</Password>
+<HP>100</HP>
+<HP_MAX>100</HP_MAX>
+<MP>100</MP>
+<MP_MAX>100</MP_MAX>
+<XP>0</XP>
+<LEVEL>1</LEVEL>
+<POSX>316</POSX>
+<POSY>954</POSY>
+</Player>
+
+<Player ID="2">
+<Username>test2</Username>
+<Password>test2</Password>
+<HP>65</HP>
+<HP_MAX>100</HP_MAX>
+<MP>100</MP>
+<MP_MAX>100</MP_MAX>
+<XP>0</XP>
+<LEVEL>1</LEVEL>
+<POSX>410</POSX>
+<POSY>460</POSY>
+</Player>
+
+<Player ID="3">
+<Username>test3</Username>
+<Password>test3</Password>
+<HP>100</HP>
+<HP_MAX>100</HP_MAX>
+<MP>100</MP>
+<MP_MAX>100</MP_MAX>
+<XP>0</XP>
+<LEVEL>1</LEVEL>
+<POSX>107</POSX>
+<POSY>527</POSY>
+</Player>
+</Players>
